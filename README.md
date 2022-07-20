@@ -1,11 +1,3 @@
-<style>
-    .icons img {
-        height:40px;
-        vertical-align:top;
-        margin:4px;
-    }
-</style>
-
 ### Hi there 👋
 
 <!--
@@ -29,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>🇧🇷 Um pouco sobre mim</summary>
+<summary>Um pouco sobre mim</summary>
 <p>
   
 Desde pequeno, sempre apaixonado por tecnologia.
@@ -53,15 +45,15 @@ Além de ser apaixonado por tecnologia, amo jogos e sou curioso em saber como s�
 
 ## Linguagens, Ferramentas e Frameworks
 <p class="icons">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="CSharp">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="Visual Studio Code">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="Visual Studio">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="Eclipse">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="Spring">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="Java" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="CSharp" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="Eclipse" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="Spring" height=40 style="vertical-align:top;margin:1px;">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React" height=40 style="vertical-align:top;margin:1px;">
 </p>
