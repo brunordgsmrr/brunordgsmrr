@@ -64,4 +64,4 @@ Al√©m de ser apaixonado por tecnologia, amo jogos e sou curioso em saber como s√
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="Spring">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React">
-
+</p>
