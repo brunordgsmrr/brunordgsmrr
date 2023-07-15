@@ -1,4 +1,7 @@
-### Hi there 👋
+## Olá visitante, seja bem-vindo ao meu Github 🌍
+
+### Sinta-se a vontade para explorar meus projetos e descobrir mais sobre mim 🤗
+
 
 <!--
 **brunordgsmrr/brunordgsmrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,22 +22,21 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rodrigues-moreira-7609a5191//)](https://www.linkedin.com/in/bruno-rodrigues-moreira-7609a5191//)
 ![](https://visitor-badge.laobi.icu/badge?page_id=brunordgsmrr.brunordgsmrr)
 
-
 <details>
 <summary>Um pouco sobre mim</summary>
 <p>
   
-Desde pequeno, sempre apaixonado por tecnologia.
+Bruno Rodrigues, 23, desde pequeno, apaixonado por tecnologia e jogos.
 
-Procurando ser o meu melhor e me dedicar ao máximo.
+Atualmente sou Desenhista e utilizo AutoCad, pode parecer distante de TI, porem tem suas ligações, por exemplo, é possivel desenvolver funções dentro do AutoCAD usando LISP.
 
-Me adapto facilmente as situações diferentes, porem ainda sou um pouco tímido 😅, mais trabalho em bem em equipe! 
+Por mais que minha função seja desenhista, procuro automatizar algumas tarefas, utilizando PYTHON ou ShellScript.
 
-Minha maior satisfação é poder compartilhar meu conhecimento com algum e ver ela brilhar.
+Me foco é me tornar um desenvolvedor Back-end, estou estudando Java e SpringBoot para criação de APIs, estou quebrando a cabeça, mais estou caminhando😅
 
-Valorizo muito a transparência, a sinceridade e a honestidade, seja para assumir responsabilidades ou problemas, seja para assumir limitações ou dificuldades.
+Minha personalidade?
 
-Além de ser apaixonado por tecnologia, amo jogos e sou curioso em saber como são desenvolvidos.
+Sou uma pessoa que está sempre à procura de problemas 😅, não descanso enquanto não achar uma solução, me adapto facilmente as situações mesmo sendo timido e minha maior satisfação é contribuir com outras pessoas.
 
 📫 bruno_rdgs_@gmail.com
 </p>
@@ -57,3 +59,5 @@ Além de ser apaixonado por tecnologia, amo jogos e sou curioso em saber como s�
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" alt="Spring" height=40 style="vertical-align:top;margin:1px;">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="React" height=40 style="vertical-align:top;margin:1px;">
 </p>
+
+
