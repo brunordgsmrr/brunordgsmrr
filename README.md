@@ -42,9 +42,8 @@ Sou uma pessoa que está sempre à procura de problemas 😅, não descanso enqu
 </p>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunordgsmrr&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/brunordgsmrr/github-readme-stats)
-[![brunordgs Github stats](https://github-readme-stats.vercel.app/api?username=brunordgsmrr&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
-
+[![brunordgs Github stats](https://github-readme-stats.vercel.app/api?username=brunordgsmrr&theme=radical&custom_title=brunordgsmrr%20GitHub%20Stats&show_icons=true&include_all_commits=true&locale=pt-Br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunordgsmrr&theme=radical&locale=pt-Br&langs_count=8&layout=compact)](https://github.com/brunordgsmrr/github-readme-stats)
 
 ## Linguagens, Ferramentas e Frameworks
 <p class="icons">
