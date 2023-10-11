@@ -43,7 +43,8 @@ Sou uma pessoa que está sempre à procura de problemas 😅, não descanso enqu
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunordgsmrr&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/brunordgsmrr/github-readme-stats)
-[![RonaldoSkibinski GitHub stats](https://github-readme-stats.vercel.app/api?username=brunordgsmrr&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/brunordgsmrr/github-readme-stats)
+[![brunordgs Github stats](https://github-readme-stats.vercel.app/api?username=brunordgsmrr&theme=radical&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
+
 
 ## Linguagens, Ferramentas e Frameworks
 <p class="icons">
